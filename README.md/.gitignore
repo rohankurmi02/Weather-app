@@ -1,0 +1,18 @@
+# Weather Forecast Application
+
+A responsive weather application that displays current and 5-day forecast weather data using the OpenWeatherMap API.
+
+## Features
+
+- Search weather by city name
+- Get weather for current location
+- View current weather conditions (temperature, humidity, wind speed)
+- 5-day forecast display
+- Recent searches dropdown
+- Responsive design for desktop, tablet, and mobile
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/weather-app.git
